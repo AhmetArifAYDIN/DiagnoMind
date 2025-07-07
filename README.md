@@ -47,7 +47,7 @@ if __name__ == "__main__":
         else:
             print("Tahmin: Görsel normal görünüyor. (Bu sadece demo)")
     except FileNotFoundError:
-        print(f"Hata: {image_path} dosyası bulunamadı! Replit’e görsel yükle.")
+        print(f"Hata: {image_path} dosyası bulunamadı!")
 ```
 
 ![](img/sprint-1-demo.png)
