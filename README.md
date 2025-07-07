@@ -13,7 +13,7 @@ DiagnoMind, hastanelerde veya kliniklerde çekilen X-ray (röntgen) ve benzeri t
 ## Sprint 1: Planlama ve Veri Hazırlığı
 - Proje hedefleri ve kapsamı belirlendi.
 - Kullanılacak veri setleri araştırıldı ve seçildi (şuanda sadece zaatüre ile ilgili veriler mevcut).
-- ![](img/kaggle-chest-xray-pneumonia-screen.png)
+![](img/kaggle-chest-xray-pneumonia-screen.png)
 
 - Python ortamı kuruldu, basit görsel yükleme ve gösterme prototipi geliştirildi.
 - GitHub reposu oluşturuldu.
