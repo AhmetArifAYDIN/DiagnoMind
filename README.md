@@ -56,4 +56,4 @@ if __name__ == "__main__":
 
 ### Sprint Hedefi: Temel altyapının kurulması, veri setinin belirlenmesi ve ilk prototipin geliştirilmesi.
 
-### Planlanan hedefler başarıyla tamamlandı, temel altyapı kurulumu ve veri hazırlığı tamamlandı. İlk prototip başarıyla geliştirildi ve çalışır durumda.
+### Sprint Sonucu: Planlanan hedefler başarıyla tamamlandı, temel altyapı kurulumu ve veri hazırlığı tamamlandı. İlk prototip başarıyla geliştirildi ve çalışır durumda.
