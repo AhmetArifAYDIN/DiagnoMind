@@ -1,8 +1,15 @@
 # DiagnoMind
 
 ## Takım İsmi
+AI - 120
 
 ## Takım Üyeleri
+- Ahmet Arif AYDIN
+- Gökdeniz DURSUN
+- Elif KOŞAF
+- Utku AYDIN
+- Nazlı Yıldız
+
 
 ## Uygulama İsmi
 
