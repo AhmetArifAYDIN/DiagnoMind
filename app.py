@@ -15,4 +15,3 @@ elif 25 <= vke < 30:
     print("Durum: Fazla Kilolu")
 else:
     print("Durum: Obez")
-[2.08.2025 09:13:52] Ahmet Arif AYDIN: bunu direkt githubda paylaşabiliriz
